@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Monitory</string>
+
+    <string name="awal">Monitory Membantu Anda</string>
+    <string name="anak">Mengontrol HP Anak</string>
+    <string name="kode">Ketikan kode keluarga yang ayah bunda miliki disini</string>
+    <string name="persetujuan">Dengan menekan tombol masuk berarti Anda menyetujui</string>
+
+</resources>
